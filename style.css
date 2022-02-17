@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: brown;
+}
+textarea {
+    display: block;
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    padding: 1rem;
+}
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+    background-color: white;
+    text-align: left;
+}
+button {
+    font-weight: bolder;
+    margin: 2em 0;
+    height: 3em;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
+h1 {
+    margin: 2em;
+}
